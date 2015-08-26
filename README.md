@@ -8,3 +8,9 @@ ARアプリを実装する上で便利そうなライブラリ
 - [NyARToolkit](http://nyatla.jp/nyartoolkit/wp/)
 - [AndAR](https://code.google.com/p/andar/) 
 - [Vuforia](https://developer.vuforia.com/) 
+
+
+8月26日成果
+Vuforiaが開発もされていていいのではないか、ということになった。
+なのでVuforiaで開発しよう！
+色々環境設定でつまずいた1日だった
