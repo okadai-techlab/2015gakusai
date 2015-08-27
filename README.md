@@ -16,5 +16,5 @@ Vuforiaが開発もされていていいのではないか、ということに�
 色々環境設定でつまずいた1日だった  
 
 8月27日成果
-Vuforiaを使うための試行錯誤中
-ひょんくんから借りたandroid実機でHelloAndroidすることに成功
+Vuforiaを使うための試行錯誤中  
+android実機でHelloAndroidすることに成功 :relaxed:  
