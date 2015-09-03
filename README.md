@@ -22,7 +22,7 @@ android実機でHelloAndroidすることに成功 :relaxed:
 ##### 9月3日までの成果
 無事にsampleが動くようになりました！！
 
-たがみのブログにまとめましたｗ あと1つまとめてないことがあるのでまとめたら追記します
+たがみのブログにまとめましたｗ上から順にやればちゃんとサンプルが動くはず
 - [Android StudioでVuforia5のsampleをbuild出来るようにするまで](http://tagamidaiki.com/android-studio-vuforia-sample-build/)
 - [無事にbuild出来るようになったVuforia5 sample appにLicenseKeyを入れる](http://tagamidaiki.com/how-to-insert-licensekey-into-vuforia5-sample-app/)
-
+- [Vuforia5でAndroidのSampleAppを動かすまで – 完結編 –](http://tagamidaiki.com/the-end-of-vuforia5-sample-apps-road/)
