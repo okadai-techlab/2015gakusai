@@ -18,3 +18,11 @@ Vuforiaが開発もされていていいのではないか、ということに�
 ##### 8月27日成果
 Vuforiaを使うための試行錯誤中  
 android実機でHelloAndroidすることに成功 :relaxed:  
+
+##### 9月3日までの成果
+無事にsampleが動くようになりました！！
+
+たがみのブログにまとめましたｗ あと1つまとめてないことがあるのでまとめたら追記します
+- [Android StudioでVuforia5のsampleをbuild出来るようにするまで](http://tagamidaiki.com/android-studio-vuforia-sample-build/)
+- [無事にbuild出来るようになったVuforia5 sample appにLicenseKeyを入れる](http://tagamidaiki.com/how-to-insert-licensekey-into-vuforia5-sample-app/)
+
