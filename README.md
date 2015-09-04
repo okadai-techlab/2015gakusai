@@ -26,3 +26,7 @@ android実機でHelloAndroidすることに成功 :relaxed:
 - [Android StudioでVuforia5のsampleをbuild出来るようにするまで](http://tagamidaiki.com/android-studio-vuforia-sample-build/)
 - [無事にbuild出来るようになったVuforia5 sample appにLicenseKeyを入れる](http://tagamidaiki.com/how-to-insert-licensekey-into-vuforia5-sample-app/)
 - [Vuforia5でAndroidのSampleAppを動かすまで – 完結編 –](http://tagamidaiki.com/the-end-of-vuforia5-sample-apps-road/)
+
+##### 9月4日
+AndroidTrainingというmixiが作ってる教育資料を読み込む
+[mixi-inc. - AndroidTraining](https://github.com/mixi-inc/AndroidTraining)
