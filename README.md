@@ -30,3 +30,7 @@ android実機でHelloAndroidすることに成功 :relaxed:
 ##### 9月4日
 AndroidTrainingというmixiが作ってる教育資料を読み込む
 [mixi-inc. - AndroidTraining](https://github.com/mixi-inc/AndroidTraining)
+
+モデルデータ参考記事
+- [日本VTR実験室 無料ライブラリ「Vuforia」でARアプリを作る！③【自作モデルデータに置き換え篇】](http://nvtrlab.jp/column/1-3)
+- [画像から驚くほど簡単に3Dデータを作成できるソフトSmoothie-3d](http://i-maker.jp/smoothie-3d-6787.html)
